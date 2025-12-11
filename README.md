@@ -1,4 +1,4 @@
-# Hi there, I'm XYZ! 👋
+# Hi there, I'm Jagdeep! 👋
 ### AI Engineer & Deep Learning Specialist | Python Developer
 
 I am a developer focused on building intelligent systems using **PyTorch** and **TensorFlow**. I move beyond theory to build applied AI solutions, from predicting market trends to real-time computer vision applications.
@@ -24,10 +24,10 @@ I am a developer focused on building intelligent systems using **PyTorch** and *
 * **The Goal:** Giving machines Emotional Intelligence (EQ) to interpret human feelings and suggest actionable responses.
 * **The Tech:** A Computer Vision system that detects facial expressions in real-time and triggers specific action recommendations.
 * **Key Learning:** Applied CNN architectures on different datasets including ResNet and MNIST.
-* [🔗 View Project Code](#) *(Edit this link after uploading project)*
+* [🚧 Code Coming Soon](#) *(Edit this link after uploading project)*
 
 ---
 
 ### 📈 GitHub Stats
-![XYZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=namexyz-08&show_icons=true&theme=radical)
+![Jagdeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=namexyz-08&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namexyz-08&layout=compact&theme=radical)
