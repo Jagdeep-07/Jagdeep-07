@@ -18,13 +18,13 @@ I am a developer focused on building intelligent systems using **PyTorch** and *
 * **The Goal:** A Machine Learning solution to solve the "black box" of hardware pricing.
 * **The Tech:** Built using **TensorFlow Regression**. I engineered features from raw specs to predict market value with high accuracy.
 * **Key Learning:** Mastered data preprocessing pipelines and regression loss optimization.
-* [🚧 Code Coming Soon](#) *(Edit this link after uploading project)*
+* [🚧 Code Coming Soon](#) *
 
 #### 2. Emotion Detection & Action Recommendation System 😲
 * **The Goal:** Giving machines Emotional Intelligence (EQ) to interpret human feelings and suggest actionable responses.
 * **The Tech:** A Computer Vision system that detects facial expressions in real-time and triggers specific action recommendations.
 * **Key Learning:** Applied CNN architectures on different datasets including ResNet and MNIST.
-* [🚧 Code Coming Soon](#) *(Edit this link after uploading project)*
+* [🚧 Code Coming Soon](#) *
 
 ---
 
