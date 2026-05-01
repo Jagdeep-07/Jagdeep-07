@@ -42,7 +42,7 @@ building real things with Python, deep learning, and full-stack tools.
 ## Currently
 
 - 📚 PG Diploma in AI & Applied Machine Learning, Fanshawe College
-- 🔍 Open to **AI/ML Engineer** and **NLP Engineer** co-op roles
+- 🔍 Final semester — graduating 2026
 - 📍 Based in London, Ontario — open to remote across Canada
 
 ---
