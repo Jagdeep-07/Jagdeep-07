@@ -2,7 +2,7 @@
 
 AI & Applied Machine Learning student at Fanshawe College (London, ON) — 
 building real things with Python, deep learning, and full-stack tools.  
-Currently seeking **AI/ML Engineer** or **NLP Engineer** co-op roles in Canada.
+🔍 Currently seeking **AI/ML Engineer** or **NLP Engineer** co-op or full-time roles in Canada
 
 ---
 
