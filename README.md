@@ -1,4 +1,4 @@
-# Hi, I'm Jagdeep Singh 👋
+# Hi, I'm Jagdeep 👋
 
 AI & Applied Machine Learning student at Fanshawe College (London, ON) — 
 building real things with Python, deep learning, and full-stack tools.  
@@ -32,7 +32,7 @@ Currently seeking **AI/ML Engineer** or **NLP Engineer** co-op roles in Canada.
 
 | Project | What it does | Stack | Result |
 |---------|-------------|-------|--------|
-| [SkyOptima Backend](https://github.com/Jagdeep-07/SKYOptima-backend) | AI-powered aviation dispatch & airline optimization — capstone project | FastAPI, XGBoost, Supabase | Production-ready API |
+| [SkyOptima Backend](https://github.com/Jagdeep-07/SKYOptima-backend) | AI-powered aviation dispatch & airline optimization — capstone project | FastAPI, XGBoost, Supabase | JWT auth, XGBoost ETA model, live weather + disruption risk |
 | [Video Action Recognition](https://github.com/Jagdeep-07/video-action-recognition) | 4-architecture comparison on UCF-101: CNN, ViT, CNN-LSTM, YOLO | TensorFlow, OpenCV | ViT 99.6% / CNN-LSTM 98.9% |
 | [IPL Match Predictor](https://github.com/Jagdeep-07/ipl-match-predictor) | Bayesian vs Random Search hyperparameter optimization with SHAP | Keras, Optuna, SHAP | 54.3% accuracy, F1 0.578 |
 | [Food Classification](https://github.com/Jagdeep-07/pytorch-food101-classification) | Transfer learning comparison: ResNet50, DenseNet121, EfficientNet-B0 | PyTorch, Streamlit | ResNet50 84.26% top-1 |
